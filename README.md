@@ -1,1 +1,1 @@
-# Telecom-Churn-Prediction
+# Telecom-churn-prediction
